@@ -1,0 +1,5 @@
+Use denon as Automatically restart the deno project
+denon is the deno replacement for nodemon
+
+To install denon simply enter the following into a terminal - as it works globally
+$ deno install -qAf --unstable https://deno.land/x/denon/denon.ts
